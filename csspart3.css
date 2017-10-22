@@ -1,0 +1,20 @@
+
+body{
+text-align:center;
+	color:#FFFFFF;
+	font-size:20px;
+	color:white;
+background-image: url("partffig2.jpg"); 
+no-repeat center center fixed;
+    -webkit-background-size: cover; 
+    -moz-background-size: cover;    
+    -o-background-size: cover;     
+    background-size: cover;        
+    background-color: #cccccc;
+	
+}
+.match{
+	width:140px;
+	height:140px;
+
+}
